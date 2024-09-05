@@ -26,3 +26,6 @@ Technology Stack
 Frontend
 HTML/CSS: For building the structure and styling of the web pages.
 JavaScript: To add interactivity and enhance user experience.
+
+
+![image](https://github.com/user-attachments/assets/a8620e12-3224-4049-9117-73bb2d34a35a)
